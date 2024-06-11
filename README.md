@@ -1,5 +1,5 @@
 
-# Crypto tracker with using dash-plotly library
+# Crypto tracker with using dash-plotly library and dowloading data from Binance.
 
 ## Disclaimer
 ***(This text is really important to read before using this application.)***    
